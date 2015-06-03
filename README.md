@@ -1,2 +1,1 @@
-# app
-SmartTiles, a SmartThings web client
+http://www.smarttiles.click/
